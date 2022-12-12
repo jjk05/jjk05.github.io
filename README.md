@@ -1,6 +1,9 @@
 # karina.github.io
 Моя страница
 
+![image](https://user-images.githubusercontent.com/114376515/206955148-d0977e64-eef3-430b-8fd4-75cbc022f6b9.png)
+
+
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPB3Tlks=/?moveToViewport=-336,-532,1403,707&embedId=594358286266" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
