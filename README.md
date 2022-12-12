@@ -1,7 +1,7 @@
 # karina.github.io
 Моя страница
 
-![image](https://user-images.githubusercontent.com/114376515/206955148-d0977e64-eef3-430b-8fd4-75cbc022f6b9.png)
+![image](https://user-images.githubusercontent.com/114376515/206955294-00d436bf-07f3-40b6-82a2-8a6ad626c4da.png)
 
 
 
